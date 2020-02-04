@@ -1,6 +1,7 @@
 body {background-color: #ff8332;}
 #buttons {width: 1500px;}
-#but {width: 400px; text-align:center;}
+#but {width: 400px;}
+#but { text-align:center;}
 h1 {text-align:center;}
 h2 {text-align:center;}
 h3 {text-align:center;}
